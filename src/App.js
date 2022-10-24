@@ -13,7 +13,7 @@ export default function App() {
         </Button>
         <Paper elevation={3} sx={{ marginTop: 3, marginBottom: 3 }}>
           <Typography variant="h3" component="h2">
-            This is a test
+            This is a test of github
           </Typography>
         </Paper>
         <BasicTable />
